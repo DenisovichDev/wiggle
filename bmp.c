@@ -1,7 +1,15 @@
+/**
+ * Author: DenisovichDev (@DenisovichPy)
+ * Made for the wonderful @sableRaph and his community (and the friends and enemies)
+ *
+ * I have commented it as much as I could. Please read README for more.
+ */ 
+
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+
 #include "bmp.h"
 
 unsigned char* loadBMP(char *filename, DIBHeader *DIBitmapHeader) {

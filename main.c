@@ -1,3 +1,12 @@
+/**
+ * Author: DenisovichDev (@DenisovichPy)
+ * Made for the wonderful @sableRaph and his community (and the friends and enemies)
+ *
+ * I have commented it as much as I could. Please read README for more.
+ */ 
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
