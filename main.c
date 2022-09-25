@@ -32,10 +32,11 @@ int main() {
     uint32_t frameCount = 0;
     bool running = true;
 
+    system("clear");
+
     // Draw
     while (running) {
 
-        /* system("clear"); */
         // printf("\x1b[2J"); // Slightly jittery 
         printf("\x1b[H");
         /* printf("\x1b[23A"); */
