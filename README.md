@@ -2,7 +2,7 @@
 
 Made for @sableRaph and his ridiculous community.
 
-# How to run 
+## How to run 
 - Clone this repo to your machine
 - Make sure you are in a Linux/Unix environment (For Windows, use WSL)
 - Make sure you have the GNU Compiler Collection (gcc) and GNU Make Utility (make) installed
@@ -15,7 +15,44 @@ $ gcc -Wall -g main.c bmp.c render.c -lm
 ```sh
 $ ./a.out
 ```
-- To stop, `Ctrl + C`
+- To stop, `Ctrl + C`  
+
+Here's a [preview of the output](https://www.youtube.com/watch?v=oTxaS_L3Ud8) on YouTube. And here's one of the frames.
+```
+                  ,-,.
+                -=!!!!;:.
+               ,#*!=!*!*!-
+               *@**!!*!=!#~
+              ,@$#*****!=**.
+              :@##*!**##*!#-
+              =@#$#***#####-
+              =$@!~:;*###!!-
+             ,-;$~ ,:!###!#!
+             .:!#:~;=!$##**!
+             .$$***###$:;;=:
+             -@$**##*$! ,*=
+             =@;~:*###- :=.
+            .;-   ,#*- .;
+            ,,:#=:,~, .-~
+           .--!!;~,  . --
+           .-~, .  ..  =,
+           ,-,.,,...  =$.
+           --,...   ~*$#,
+           ,~,    ,=#$##!.
+             .-::=*#*###**:
+            ~!###**!*#*=!#$;.
+        ..~*$*=**!!!!==!***#*:
+      -=**$$#*!!!!!=:;*****!*$=
+    .!$$#######*!==;;=*****!!*@~
+    *@$########*#;;!=!********@:
+   :@$##########*!=!!*********@:
+  .#@$$##########!=********#**$;
+  -@##$$#########**#******##**#*
+  ~@##$$$#######*##*#****###***$-
+  ,$$##$$#########*##**#*####*!#*
+   !@##$$########**#**###**###=!$;
+   ,$$###$#######******###*#*#*=*#:
+```
 
 ## Funny Comments Like Jeremy
 This took 2 weeks to make. Not because it was super hard or anything, it's just that I am just too lazy. I started this when the topic was "Raphaël de Courville, Processing Community Lead Fellow". Then I started to think about making it Rain, since that was the topic for next week. Now this.
